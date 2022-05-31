@@ -1,6 +1,7 @@
 # Gerador-QRCode
 <h1>Gerador de QRCode utilizando JS.</h1>
 <p>Projeto básico para iniciantes, utilizamos o consumo de uma API para realização deste projeto.</p>
+<img src="./img/img-1" alt=""/>
 
 ## API:
 https://goqr.me/api/
