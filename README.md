@@ -1,5 +1,5 @@
 ##Gerador de QRCode 
-<img src="./img/img-1.png"  alt="">
+<img src="./img/img.png"  alt="">
 <h1>Gerador de QRCode utilizando JS.</h1>
 <p>Projeto básico para iniciantes. Utilizando o consumo de uma API para a realização deste projeto. </p>
 
