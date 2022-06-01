@@ -1,6 +1,6 @@
 ## Gerador de QRCode Tela inicial - Desktop
 <img src="./img/img.png"  alt="">
-<p>Após inserir a URL será gerado o QRCode, e com um celular com câmera poderá fazer o acesso da URL.</p>
+<p>Após inserir a URL será gerado um QRCode, e com um celular com câmera poderá fazer o acesso da URL.</p>
 <img src="./img/img-2.png" alt="">
 <h1>Gerador de QRCode utilizando JS.</h1>
 <p>Projeto básico para iniciantes. Utilizando o consumo de uma API para a realização deste projeto. </p>
