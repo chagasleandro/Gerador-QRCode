@@ -9,10 +9,12 @@
 
 Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
--  [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
--  [CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
--  [Javascript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
-
+<img  alt="HMTL5"
+     src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+ <img alt="CSS3"
+      src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+ <img alt="Javascript"
+      src="https://img.shields.io/badge/Javascript-%231572B6.svg?style=for-the-badge&logo=Javascript&logoColor=white"/>  
 ## :wrench: Como Utilizar
 
 Clone essa aplicação utilizando o [Git](https://git-scm.com) e utilizando os seguintes comandos:
