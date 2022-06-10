@@ -24,6 +24,8 @@ Clone essa aplicação utilizando o [Git](https://git-scm.com) e utilizando os s
 $ git clone https://github.com/chagasleandro/Gerador-QRCode
 ```
 Em seguida execute o arquivo 'index.html' no seu navegador. </br>
+
+link para acessar o projeto:https://chagasleandro.github.io/Gerador-QRCode/
 ## API:
 https://goqr.me/api/
 
