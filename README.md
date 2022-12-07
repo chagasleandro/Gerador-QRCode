@@ -10,11 +10,9 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
-## Gerador de QRCode Tela inicial - Desktop
-<img src="./img/img.png"  alt="">
-<p>Após inserir a URL será gerado um QRCode, e com um celular com câmera poderá fazer o acesso da URL.</p>
-<img src="./img/img-2.png" alt="">
-<h1>Gerador de QRCode utilizando JS.</h1>
+
+<h1>Gerador de QRCode.</h1>
+
 # 💻 Projeto:
 <p>Projeto básico para iniciantes. Utilizando o consumo de uma API para a realização deste projeto. </p>
 
@@ -40,6 +38,11 @@ Em seguida execute o arquivo 'index.html' no seu navegador. </br>
 
 ## 🔖 Layout:
 link para acessar o projeto:https://chagasleandro.github.io/Gerador-QRCode/
+## Gerador de QRCode Tela inicial - Desktop
+<img src="./img/img.png"  alt="">
+<p>Após inserir a URL será gerado um QRCode, e com um celular com câmera poderá fazer o acesso da URL.</p>
+<img src="./img/img-2.png" alt="">
+
 ## API:
 https://goqr.me/api/
 
