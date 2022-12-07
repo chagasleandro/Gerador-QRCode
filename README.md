@@ -37,7 +37,7 @@ $ git clone https://github.com/chagasleandro/Gerador-QRCode
 Em seguida execute o arquivo 'index.html' no seu navegador. </br>
 
 ## 🔖 Layout:
-link para acessar o projeto:https://chagasleandro.github.io/Gerador-QRCode/
+Você pode visualizar o layout do projeto através [desse link]:(https://chagasleandro.github.io/Gerador-QRCode/)
 ## Gerador de QRCode Tela inicial - Desktop
 <img src="./img/img.png"  alt="">
 <p>Após inserir a URL será gerado um QRCode, e com um celular com câmera poderá fazer o acesso da URL.</p>
